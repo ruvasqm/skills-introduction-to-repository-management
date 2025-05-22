@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @ruvasqm
+/src/backend/database.py      @ruvasqm
+/src/backend/routers/auth.py  @ruvasqm
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @ruvasqm
